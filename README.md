@@ -47,7 +47,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isacolakoglu&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isacolakoglu&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+
   
 ```yaml
 name: İsa ÇOLAKOĞLU
