@@ -1,7 +1,5 @@
 ![Github Header](https://github.com/isacolakoglu/isacolakoglu/assets/85408010/a225964d-8905-428b-8a8d-0efb1c48563c)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isacolakoglu&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isacolakoglu&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <h2> 🚀 Languages I Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
@@ -49,6 +47,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isacolakoglu&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isacolakoglu&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+  
 ```yaml
 name: İsa ÇOLAKOĞLU
 located_in: Ankara, TURKEY
